@@ -2,12 +2,12 @@
   <a href="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg">
     <img width="200" height="200" src="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg">
   </a>
-  <br/><br/>
+  <br/>
   <h1>Title Project</h1>
   <p>
     Mini description project.
   </p>
-  <br/><br/>
+  <br/>
 </div>
 
 <!-- ||| -->
@@ -103,7 +103,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <br/>
     <h2>✅ License ✅</h2>
     <br/>
-
 </div>
 
 ## [GNU - free software license.](LICENSE).
