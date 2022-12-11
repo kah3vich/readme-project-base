@@ -26,7 +26,9 @@
 
 ### 4. <a href="#team">Team</a>
 
-### 5. <a href="#license">License</a>
+### 5. <a href="#link">Link</a>
+
+### 6. <a href="#license">License</a>
 
 <!-- ||| -->
 
@@ -57,6 +59,16 @@ yarn add <name> --dev
 </div>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<!-- ||| -->
+
+<div id="link" align="center">
+    <br/>
+    <h2>🔒 Link 🔒</h2>
+    <br/>
+</div>
+
+## 1. [Link](https://github.com/kah3vich/readme-project-base)
 
 <!-- ||| -->
 
