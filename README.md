@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <br/>
 </div>
 
-## 1. [Link](https://github.com/kah3vich/readme-project-base)
+### 1. <a href="https://github.com/kah3vich/readme-project-base">Link</a>
 
 <!-- ||| -->
 
