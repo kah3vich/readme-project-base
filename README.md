@@ -5,7 +5,7 @@
   <br/>
   <h1>Title Project</h1>
   <p>
-    Mini description project.
+    Mini description project
   </p>
   <br/>
 </div>
@@ -39,13 +39,13 @@
 ### Install with npm:
 
 ```bash
-npm install --save-dev ...
+npm install --save-dev <name>
 ```
 
 ### Install with yarn:
 
 ```bash
-yarn add ... --dev
+yarn add <name> --dev
 ```
 
 <!-- ||| -->
@@ -105,6 +105,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <br/>
 </div>
 
-## [GNU - free software license.](LICENSE).
+## [GNU - free software license.](LICENSE)
 
 <!-- ! by kah3vich -->
