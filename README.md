@@ -84,7 +84,7 @@ yarn add <name> --dev
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/kah3vich/kah3vich/a0b5aba54a9ac8c40b00b52742c4b63f76ca3e4c/assets/icon/javascript.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br/>
       <p>JavaScript</p>
