@@ -22,11 +22,11 @@
 
 ### 2. <a href="#description">Description</a>
 
-### 3. <a href="#stack">Stack</a>
+### 3. <a href="#link">Link</a>
 
-### 4. <a href="#team">Team</a>
+### 4. <a href="#stack">Stack</a>
 
-### 5. <a href="#link">Link</a>
+### 5. <a href="#team">Team</a>
 
 ### 6. <a href="#license">License</a>
 
