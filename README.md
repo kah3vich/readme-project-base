@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg">
-    <img width="200" height="200" src="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg">
-  </a>
+  <img width="200" height="200" src="./assets/svg/logo.svg">
   <br/>
   <h1>Title Project</h1>
   <p>
@@ -14,7 +12,9 @@
 
 <div align="center">
     <br/>
-    <h2>🌏 Table of Contents 🌏</h2>
+    <img src="./assets/svg/tableOfContents.svg" alt="" width="100%" height="29px">
+    <br/>
+    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
@@ -32,9 +32,11 @@
 
 <!-- ||| -->
 
-<div id="install" align="center">
+<div align="center">
     <br/>
-    <h2>🤔 Install 🤔</h2>
+    <img src="./assets/svg/install.svg" alt="" width="100%" height="29px">
+    <br/>
+    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
@@ -52,9 +54,11 @@ yarn add <name> --dev
 
 <!-- ||| -->
 
-<div id="description" align="center">
+<div align="center">
     <br/>
-    <h2>🌟 Description 🌟</h2>
+    <img src="./assets/svg/description.svg" alt="" width="100%" height="29px">
+    <br/>
+    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
@@ -64,9 +68,11 @@ yarn add <name> --dev
 
 <!-- ||| -->
 
-<div id="link" align="center">
+<div align="center">
     <br/>
-    <h2>🔒 Link 🔒</h2>
+    <img src="./assets/svg/link.svg" alt="" width="100%" height="29px">
+    <br/>
+    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
@@ -94,9 +100,11 @@ yarn add <name> --dev
 
 <!-- ||| -->
 
-<div id="team" align="center">
+<div align="center">
     <br/>
-    <h2>🧠 Core Team 🧠</h2>
+    <img src="./assets/svg/team.svg" alt="" width="100%" height="29px">
+    <br/>
+    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
@@ -113,12 +121,18 @@ yarn add <name> --dev
 
 <!-- ||| -->
 
-<div id="license" align="center">
+<div align="center">
     <br/>
-    <h2>✅ License ✅</h2>
+    <img src="./assets/svg/license.svg" alt="" width="100%" height="29px">
+    <br/>
+    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
-## [GNU - free software license.](LICENSE)
+<a href="https://github.com/kah3vich/readme-project-base/blob/main/LICENSE">
+  <br/>
+  <img src="./assets/svg/licenseContent.svg" alt="" width="100%" height="29px">
+  <br/>
+</a>
 
-<!-- ! by kah3vich -->
+<!--| 🔥 by kah3vich 🔥 -->
