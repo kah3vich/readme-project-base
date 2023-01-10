@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" height="200" src="./assets/svg/logo.svg">
+  <img width="200" height="200" src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/logo.svg">
   <br/>
   <h1>Title Project</h1>
   <p>
@@ -12,9 +12,9 @@
 
 <div align="center">
     <br/>
-    <img src="./assets/svg/tableOfContents.svg" alt="" width="100%" height="29px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/tableOfContents.svg" alt="" width="100%" height="29px">
     <br/>
-    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
@@ -34,9 +34,9 @@
 
 <div align="center">
     <br/>
-    <img src="./assets/svg/install.svg" alt="" width="100%" height="29px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/install.svg" alt="" width="100%" height="29px">
     <br/>
-    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
@@ -56,9 +56,9 @@ yarn add <name> --dev
 
 <div align="center">
     <br/>
-    <img src="./assets/svg/description.svg" alt="" width="100%" height="29px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/description.svg" alt="" width="100%" height="29px">
     <br/>
-    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
@@ -70,9 +70,9 @@ yarn add <name> --dev
 
 <div align="center">
     <br/>
-    <img src="./assets/svg/link.svg" alt="" width="100%" height="29px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/link.svg" alt="" width="100%" height="29px">
     <br/>
-    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
@@ -80,9 +80,11 @@ yarn add <name> --dev
 
 <!-- ||| -->
 
-<div id="stack" align="center">
+<div align="center">
     <br/>
-    <h2>🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/stack.svg" alt="" width="100%" height="29px">
+    <br/>
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
@@ -102,9 +104,9 @@ yarn add <name> --dev
 
 <div align="center">
     <br/>
-    <img src="./assets/svg/team.svg" alt="" width="100%" height="29px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/team.svg" alt="" width="100%" height="29px">
     <br/>
-    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
@@ -123,15 +125,15 @@ yarn add <name> --dev
 
 <div align="center">
     <br/>
-    <img src="./assets/svg/license.svg" alt="" width="100%" height="29px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/license.svg" alt="" width="100%" height="29px">
     <br/>
-    <img src="./assets/gif/line.gif" alt="" width="100%" height="20px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
     <br/>
 </div>
 
 <a href="https://github.com/kah3vich/readme-project-base/blob/main/LICENSE">
   <br/>
-  <img src="./assets/svg/licenseContent.svg" alt="" width="100%" height="29px">
+  <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/licenseContent.svg" alt="" width="100%" height="29px">
   <br/>
 </a>
 
