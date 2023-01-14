@@ -40,16 +40,40 @@
     <br/>
 </div>
 
-### Install with npm:
+### Install dependencies:
 
 ```bash
-npm install --save-dev <name>
+yarn
 ```
 
-### Install with yarn:
+### Start dev mode:
 
 ```bash
-yarn add <name> --dev
+yarn start
+```
+
+### Build project:
+
+```bash
+yarn build
+```
+
+### Export project in ZIP:
+
+```bash
+yarn export:zip
+```
+
+### Lint:
+
+```bash
+yarn lint
+```
+
+### Lint fix code:
+
+```bash
+yarn lint:fix
 ```
 
 <!-- ||| -->
