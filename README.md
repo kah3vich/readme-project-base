@@ -32,7 +32,7 @@
 
 <!-- ||| -->
 
-<div align="center">
+<div align="center" id="install">
     <br/>
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/install.svg" alt="" width="100%" height="29px">
     <br/>
@@ -78,7 +78,7 @@ yarn lint:fix
 
 <!-- ||| -->
 
-<div align="center">
+<div align="center" id="description">
     <br/>
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/description.svg" alt="" width="100%" height="29px">
     <br/>
@@ -92,7 +92,7 @@ yarn lint:fix
 
 <!-- ||| -->
 
-<div align="center">
+<div align="center" id="link">
     <br/>
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/link.svg" alt="" width="100%" height="29px">
     <br/>
@@ -104,7 +104,7 @@ yarn lint:fix
 
 <!-- ||| -->
 
-<div align="center">
+<div align="center" id="stack">
     <br/>
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/stack.svg" alt="" width="100%" height="29px">
     <br/>
@@ -126,7 +126,7 @@ yarn lint:fix
 
 <!-- ||| -->
 
-<div align="center">
+<div align="center" id="team">
     <br/>
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/team.svg" alt="" width="100%" height="29px">
     <br/>
@@ -147,7 +147,7 @@ yarn lint:fix
 
 <!-- ||| -->
 
-<div align="center">
+<div align="center" id="license">
     <br/>
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/license.svg" alt="" width="100%" height="29px">
     <br/>
