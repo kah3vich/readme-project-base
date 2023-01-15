@@ -1,21 +1,21 @@
 <div align="center">
   <img width="200" height="200" src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/logo.svg">
-  <br/>
+  <br />
   <h1>Title Project</h1>
   <p>
     Mini description project
   </p>
-  <br/>
+  <br />
 </div>
 
 <!-- ||| -->
 
 <div align="center">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/tableOfContents.svg" alt="" width="100%" height="29px">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
-    <br/>
+    <br />
 </div>
 
 ### 1. <a href="#install">Install</a>
@@ -33,11 +33,11 @@
 <!-- ||| -->
 
 <div align="center" id="install">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/install.svg" alt="" width="100%" height="29px">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
-    <br/>
+    <br />
 </div>
 
 ### Install dependencies:
@@ -52,38 +52,18 @@ yarn
 yarn start
 ```
 
-### Build project:
+<br />
 
-```bash
-yarn build
-```
-
-### Export project in ZIP:
-
-```bash
-yarn export:zip
-```
-
-### Lint:
-
-```bash
-yarn lint
-```
-
-### Lint fix code:
-
-```bash
-yarn lint:fix
-```
+<a href="https://github.com/kah3vich/Gulp-RS/blob/set/readme.md#script" target="_blank"><b>More scripts.</b></a>
 
 <!-- ||| -->
 
 <div align="center" id="description">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/description.svg" alt="" width="100%" height="29px">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
-    <br/>
+    <br />
 </div>
 
 <div align="center">
@@ -93,11 +73,11 @@ yarn lint:fix
 <!-- ||| -->
 
 <div align="center" id="link">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/link.svg" alt="" width="100%" height="29px">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
-    <br/>
+    <br />
 </div>
 
 ### 1. <a href="https://github.com/kah3vich/readme-project-base">Link</a>
@@ -105,11 +85,11 @@ yarn lint:fix
 <!-- ||| -->
 
 <div align="center" id="stack">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/stack.svg" alt="" width="100%" height="29px">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
-    <br/>
+    <br />
 </div>
 
 <table align="center">
@@ -118,7 +98,7 @@ yarn lint:fix
       <a href="#">
         <img src="https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br/>
+      <br />
       <p>JavaScript</p>
     </td>
   </tr>
@@ -127,18 +107,18 @@ yarn lint:fix
 <!-- ||| -->
 
 <div align="center" id="team">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/team.svg" alt="" width="100%" height="29px">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
-    <br/>
+    <br />
 </div>
 
 <table align="center">
     <tr>
         <td align="center" valign="top">
             <img width="96" height="96" src="https://github.com/kah3vich.png?s=96">
-            <br/>
+            <br />
             <a href="https://github.com/kah3vich">Kah3vich</a>
             <p>Core Developer</p>
         </td>
@@ -148,17 +128,17 @@ yarn lint:fix
 <!-- ||| -->
 
 <div align="center" id="license">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/license.svg" alt="" width="100%" height="29px">
-    <br/>
+    <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
-    <br/>
+    <br />
 </div>
 
 <a href="https://github.com/kah3vich/readme-project-base/blob/main/LICENSE">
-  <br/>
+  <br />
   <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/licenseContent.svg" alt="" width="100%" height="29px">
-  <br/>
+  <br />
 </a>
 
 <!--| 🔥 by kah3vich 🔥 -->
