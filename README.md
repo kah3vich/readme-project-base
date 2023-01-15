@@ -18,7 +18,7 @@
     <br />
 </div>
 
-### 1. <a href="#install">Install</a>
+### 1. <a href="#script">Script</a>
 
 ### 2. <a href="#description">Description</a>
 
@@ -32,9 +32,9 @@
 
 <!-- ||| -->
 
-<div align="center" id="install">
+<div align="center" id="script">
     <br />
-    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/install.svg" alt="" width="100%" height="29px">
+    <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/script.svg" alt="" width="100%" height="29px">
     <br />
     <img src="https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/gif/line.gif" alt="" width="100%" height="20px">
     <br />
@@ -54,7 +54,11 @@ yarn start
 
 <br />
 
-<a href="https://github.com/kah3vich/Gulp-RS/blob/set/readme.md#script" target="_blank"><b>More scripts.</b></a>
+<a href="https://github.com/kah3vich/Gulp-RS/blob/set/readme.md#script" target="_blank">
+  <b>More scripts.</b>
+</a>
+
+<br />
 
 <!-- ||| -->
 

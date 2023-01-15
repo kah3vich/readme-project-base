@@ -10,11 +10,11 @@
                     font-family: 'Martian Mono', monospace;
                 }
             </style>
-            <div id="install">
-                🤔 Install 🤔
+            <div id="script">
+                🤔 Script 🤔
             </div>
             <style>
-                #install {
+                #script {
                     font-family: 'Martian Mono', monospace;
                     width: 100%;
                     color: #61dafb;
