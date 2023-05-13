@@ -8,11 +8,11 @@ def main():
 
     rep_name = sys.argv[1:][0]
 
-    print('✅ rep_name    ', rep_name)
-
     f = open('bd.json')
     
     data = json.load(f)
+
+    result = 'cd ./cache/reps/; rm -rf ./* \n\n'
     
     for i in data['bd']:
         path = './cache/command.txt'
@@ -20,11 +20,15 @@ def main():
 
         if bool(rep_name) and title == rep_name:
             with open(path, 'w') as file:
-                file.write(schema_command(i))
+                file.write('cd ./cache/reps/; rm -rf ./* \n\n' + schema_command(i) + 'cd ../..;')
             return
 
-        with open(path, 'w') as file:
-            file.write(schema_command(i))
+        result += schema_command(i)
+
+    result += 'cd ../..;'
+
+    with open(path, 'w') as file:
+        file.write(result)
 
     f.close()
 

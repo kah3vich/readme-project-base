@@ -49,16 +49,15 @@ def schema_readme(url, title, subtitle, description, links, stacks, developers):
     return result 
 
 def schema_command(reps): 
-    result = 'cd ./cache/reps/; rm -rf ./* \n\n'
+    result = ''
 
     title = reps['title']
+    
     result += f'git clone git@github.com:kah3vich/{title}.git; '
     result += f'cd {title}; '
     result += f'mv ../../readme/{title}.md .; '
     result += f'mv {title}.md readme.md; '
     result += 'git add .; git commit -m "feat: readme update"; git push; '
     result += 'cd ../; \n\n'
-
-    result += 'cd ../..;'
 
     return result 

@@ -3,13 +3,13 @@
 		{
 			"url": "https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg",
 			"title": "Autopodbor",
-			"subtitle": "Project for a car dealership",
+			"subtitle": "Project for a car dealership.",
 			"description": "The car dealership project, which has a large selection of cars and accessories for cars, which are easy to pick up, will pass a small quiz.",
 			"links": [
 				{
 					"id": 1,
 					"title": "Index",
-					"link": "https://kah3vich.github.io/Autopodbor/dist/index.html"
+					"link": "https://kah3vich.github.io/Autopodbor/public/details.html"
 				}
 			],
 			"stacks": [
@@ -41,7 +41,1840 @@
 					"name": "Bpump",
 					"link": "https://github.com/pbump",
 					"url": "https://github.com/bpump.png?s=96",
-					"status": "Support "
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/Saturn/main/src/img/favicon/favicon.png",
+			"title": "Saturn",
+			"subtitle": "Factory for the production of metal racks",
+			"description": "Plant for the production of metal racks 'Metalroof'. The company 'Saturn' is a manufacturer of metal racks, which are widely used in various fields. It can be warehouse, retail, office space, garages, utility rooms, various warehouses, industrial premises, and so on. The metal racks offered by our company are distinguished by high strength and wear resistance. They can be used both in small rooms and in objects with a large area.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Saturn/public/index.html"
+				},
+				{
+					"id": 2,
+					"title": "Catalog",
+					"link": "https://kah3vich.github.io/Saturn/public/catalog.html"
+				},
+				{
+					"id": 3,
+					"title": "Cases",
+					"link": "https://kah3vich.github.io/Saturn/public/cases.html"
+				},
+				{
+					"id": 4,
+					"title": "About",
+					"link": "https://kah3vich.github.io/Saturn/public/about.html"
+				},
+				{
+					"id": 5,
+					"title": "Contact",
+					"link": "https://kah3vich.github.io/Saturn/public/contact.html"
+				},
+				{
+					"id": 6,
+					"title": "Helper",
+					"link": "https://kah3vich.github.io/Saturn/public/helper.html"
+				},
+				{
+					"id": 7,
+					"title": "Articles",
+					"link": "https://kah3vich.github.io/Saturn/public/articles.html"
+				},
+				{
+					"id": 8,
+					"title": "Article Detail",
+					"link": "https://kah3vich.github.io/Saturn/public/article.html"
+				},
+				{
+					"id": 9,
+					"title": "News",
+					"link": "https://kah3vich.github.io/Saturn/public/news.html"
+				},
+				{
+					"id": 10,
+					"title": "New Detail",
+					"link": "https://kah3vich.github.io/Saturn/public/new.html"
+				},
+				{
+					"id": 11,
+					"title": "Equipment",
+					"link": "https://kah3vich.github.io/Saturn/public/equipment.html"
+				},
+				{
+					"id": 12,
+					"title": "Equipment Detail",
+					"link": "https://kah3vich.github.io/Saturn/public/add.html"
+				},
+
+				{
+					"id": 13,
+					"title": "Decision",
+					"link": "https://kah3vich.github.io/Saturn/public/decision.html"
+				},
+				{
+					"id": 14,
+					"title": "Goods",
+					"link": "https://kah3vich.github.io/Saturn/public/goods.html"
+				},
+				{
+					"id": 15,
+					"title": "Case",
+					"link": "https://kah3vich.github.io/Saturn/public/case.html"
+				},
+				{
+					"id": 16,
+					"title": "Production",
+					"link": "https://kah3vich.github.io/Saturn/public/production.html"
+				},
+				{
+					"id": 17,
+					"title": "Connect",
+					"link": "https://kah3vich.github.io/Saturn/public/connect.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Pug",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/pug.svg"
+				},
+				{
+					"title": "GSAP",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gsap.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/Medina/master/%23src/svg/index/logos.svg",
+			"title": "Medina",
+			"subtitle": "Islamic shop",
+			"description": "Islamic shop selling literature, books, magazines and various documents. The store sells Islamic literature, Islamic books and textbooks, Muslim clothes, hadiths, fatwas, tafsir, hadith, tajwid, Hanafi fiqh, fiqh al-imam al-Qurayshi, fiqh, etc. The store has a large selection of Islamic literature, literature on Islam, hadiths, fatwas, tafsirs, books, magazines, etc. The store also sells various Islamic clothing, robes, scarves, wraps, headwear, shoes, etc. The store has a large selection of Islamic books and textbooks, and hadith and fatwas.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Medina/public/index.html"
+				},
+				{
+					"id": 2,
+					"title": "New",
+					"link": "https://kah3vich.github.io/Medina/public/new.html"
+				},
+				{
+					"id": 3,
+					"title": "Details",
+					"link": "https://kah3vich.github.io/Medina/public/details.html"
+				},
+				{
+					"id": 4,
+					"title": "Contact",
+					"link": "https://kah3vich.github.io/Medina/public/contact.html"
+				},
+				{
+					"id": 5,
+					"title": "Info",
+					"link": "https://kah3vich.github.io/Medina/public/info.html"
+				},
+				{
+					"id": 6,
+					"title": "Catalog",
+					"link": "https://kah3vich.github.io/Medina/public/catalog.html"
+				},
+				{
+					"id": 7,
+					"title": "Detail",
+					"link": "https://kah3vich.github.io/Medina/public/detail.html"
+				},
+				{
+					"id": 8,
+					"title": "Comment",
+					"link": "https://kah3vich.github.io/Medina/public/comment.html"
+				},
+				{
+					"id": 9,
+					"title": "Gallery",
+					"link": "https://kah3vich.github.io/Medina/public/gallery.html"
+				},
+				{
+					"id": 10,
+					"title": "Basket",
+					"link": "https://kah3vich.github.io/Medina/public/basket.html"
+				},
+				{
+					"id": 11,
+					"title": "404",
+					"link": "https://kah3vich.github.io/Medina/public/404.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "Pug",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/pug.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/LEM/master/%23src/svg/index/logos.svg",
+			"title": "LEM",
+			"subtitle": "Energy company",
+			"description": "Energy company for the development of power plants and infrastructure. He is also the head of the 'Network of Energy Companies' and 'Energy Network'.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Medina/public/index.html"
+				},
+				{
+					"id": 2,
+					"title": "Deflation",
+					"link": "https://kah3vich.github.io/LEM/public/deflation.html"
+				},
+				{
+					"id": 3,
+					"title": "New",
+					"link": "https://kah3vich.github.io/LEM/public/new.html"
+				},
+				{
+					"id": 4,
+					"title": "Detail",
+					"link": "https://kah3vich.github.io/LEM/public/detail.html"
+				},
+				{
+					"id": 5,
+					"title": "Contact",
+					"link": "https://kah3vich.github.io/LEM/public/contact.html"
+				},
+				{
+					"id": 6,
+					"title": "Objects",
+					"link": "https://kah3vich.github.io/LEM/public/objects.html"
+				},
+				{
+					"id": 7,
+					"title": "Object",
+					"link": "https://kah3vich.github.io/LEM/public/object.html"
+				},
+				{
+					"id": 8,
+					"title": "Company",
+					"link": "https://kah3vich.github.io/LEM/public/company.html"
+				},
+				{
+					"id": 9,
+					"title": "Details",
+					"link": "https://kah3vich.github.io/LEM/public/details.html"
+				},
+				{
+					"id": 10,
+					"title": "404",
+					"link": "https://kah3vich.github.io/LEM/public/404.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "Pug",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/pug.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/TOGO/master/src/svg/header-logo.svg",
+			"title": "TOGO",
+			"subtitle": "Analytics company",
+			"description": "An analytics company that tracks stock quotes and the exchange on which they are traded. The company that operates these exchanges is called a stockbroker. The stockbroker always has at his disposal enough shares to satisfy everyone who wants to buy or sell shares.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/TOGO/public/index.html"
+				},
+				{
+					"id": 2,
+					"title": "Reg",
+					"link": "https://kah3vich.github.io/TOGO/public/reg.html"
+				},
+				{
+					"id": 3,
+					"title": "Sign In",
+					"link": "https://kah3vich.github.io/TOGO/public/signin.htm"
+				},
+				{
+					"id": 4,
+					"title": "Reset",
+					"link": "https://kah3vich.github.io/TOGO/public/reset.html"
+				},
+				{
+					"id": 5,
+					"title": "404",
+					"link": "https://kah3vich.github.io/TOGO/public/404.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/Project-Windows/master/%23src/svg/header/logo.svg",
+			"title": "Project-Windows",
+			"subtitle": "Plastic windows company",
+			"description": "Plastic windows company Our company offers plastic windows from Rehau, KBE, Montblanc, Veka profiles and other well-known manufacturers. We offer PVC windows and doors of any size and configuration, both standard and non-standard. PVC windows are not only a window with a beautiful design, but also protect the house from cold, dust and noise.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Project-Windows/public/index.html"
+				},
+				{
+					"id": 2,
+					"title": "Windows",
+					"link": "https://kah3vich.github.io/Project-Windows/public/windows.html"
+				},
+				{
+					"id": 3,
+					"title": "Door",
+					"link": "https://kah3vich.github.io/Project-Windows/public/door.html"
+				},
+				{
+					"id": 4,
+					"title": "Garden",
+					"link": "https://kah3vich.github.io/Project-Windows/public/garden.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "Pug",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/pug.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/Project-Sfera/master/src/svg/menu/logos.svg",
+			"title": "Project-Sfera",
+			"subtitle": "Admin panel.",
+			"description": "English language school, english for children and teenagers, english language courses in Moscow, english language training in kiev, english training in Moscow, english language tutor Moscow, english for children, english at school.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Teacher Profile",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/t-profile.html"
+				},
+				{
+					"id": 2,
+					"title": "Teacher List",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/t-list.html"
+				},
+				{
+					"id": 3,
+					"title": "Teacher Pay",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/t-pay.html"
+				},
+				{
+					"id": 4,
+					"title": "Teacher Question",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/t-question.html"
+				},
+				{
+					"id": 5,
+					"title": "Teacher Questions",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/t-questions.html"
+				},
+				{
+					"id": 6,
+					"title": "Teacher Quiz",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/t-quiz.html"
+				},
+				{
+					"id": 7,
+					"title": "Teacher Schedule",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/t-schedule.html"
+				},
+				{
+					"id": 8,
+					"title": "Teacher Student",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/t-student.html"
+				},
+				{
+					"id": 9,
+					"title": "Teacher Lesson",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/t-lesson.html"
+				},
+				{
+					"id": 10,
+					"title": "Teacher Edit",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/t-edit.html"
+				},
+				{
+					"id": 11,
+					"title": "Student Profile",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/s-profile.html"
+				},
+				{
+					"id": 12,
+					"title": "Student List",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/s-list.html"
+				},
+				{
+					"id": 13,
+					"title": "Student Pay",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/s-pay.html"
+				},
+				{
+					"id": 14,
+					"title": "Student Schedule",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/s-schedule.html"
+				},
+				{
+					"id": 15,
+					"title": "Student Teacher",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/s-teacher.html"
+				},
+				{
+					"id": 16,
+					"title": "Student Search",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/s-search.html"
+				},
+				{
+					"id": 17,
+					"title": "Student Teacher Profile",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/s-profiles.html"
+				},
+				{
+					"id": 18,
+					"title": "Student List Teacher",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/s-found.html"
+				},
+				{
+					"id": 19,
+					"title": "Student Edit",
+					"link": "https://kah3vich.github.io/Project-Sfera/public/s-edit.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "Pug",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/pug.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/logo.svg",
+			"title": "Pit-Stop",
+			"subtitle": "Сar dealership and repair shop.",
+			"description": "Car dealership and car repair shop. Also in the showroom you can buy spare parts for cars, get technical advice and purchase original spare parts for foreign cars.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/index.html"
+				},
+				{
+					"id": 2,
+					"title": "Disks",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/disks.html"
+				},
+				{
+					"id": 3,
+					"title": "Painting",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/painting.html"
+				},
+				{
+					"id": 4,
+					"title": "Polishing",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/polishing.html"
+				},
+				{
+					"id": 5,
+					"title": "Tires",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/tires.html"
+				},
+				{
+					"id": 6,
+					"title": "Balance",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/balance.html"
+				},
+				{
+					"id": 7,
+					"title": "Alloy",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/alloy.html"
+				},
+				{
+					"id": 8,
+					"title": "Hernia",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/hernia.html"
+				},
+				{
+					"id": 9,
+					"title": "Season",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/season.html"
+				},
+				{
+					"id": 10,
+					"title": "Refill",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/refill.html"
+				},
+				{
+					"id": 11,
+					"title": "Conditioner",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/conditioner.html"
+				},
+				{
+					"id": 12,
+					"title": "Client",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/client.html"
+				},
+				{
+					"id": 13,
+					"title": "Reviews",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/reviews.html"
+				},
+				{
+					"id": 14,
+					"title": "Priсe",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/priсe.html"
+				},
+				{
+					"id": 15,
+					"title": "Constructor",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/constructor.html"
+				},
+				{
+					"id": 16,
+					"title": "Delivery",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/delivery.html"
+				},
+				{
+					"id": 17,
+					"title": "Maryino",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/maryino.html"
+				},
+				{
+					"id": 18,
+					"title": "Leningradka",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/leningradka.html"
+				},
+				{
+					"id": 19,
+					"title": "Moghaika",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/moghaika.html"
+				},
+				{
+					"id": 20,
+					"title": "Ryazanka",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/ryazanka.html"
+				},
+				{
+					"id": 21,
+					"title": "Yaroslavskoe",
+					"link": "https://kah3vich.github.io/Pit-Stop/public/yaroslavskoe.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "Pug",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/pug.svg"
+				},
+				{
+					"title": "GSAP",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gsap.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/logo.svg",
+			"title": "Look-wider",
+			"subtitle": "Shooting studio.",
+			"description": "Shooting studio, various clips, short films, commercials and much more.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Look-wider/public/index.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/logo.svg",
+			"title": "Islamic",
+			"subtitle": "Bookstore for islam.",
+			"description": "Bookstore for islam, which has a large range of books with a blog of current news.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Islamic/dist/index.html"
+				},
+				{
+					"id": 2,
+					"title": "Detail",
+					"link": "https://kah3vich.github.io/Islamic/dist/detail.html"
+				},
+				{
+					"id": 3,
+					"title": "Category",
+					"link": "https://kah3vich.github.io/Islamic/dist/category.html"
+				},
+				{
+					"id": 4,
+					"title": "Catalog",
+					"link": "https://kah3vich.github.io/Islamic/dist/catalog.html"
+				},
+				{
+					"id": 5,
+					"title": "Pay",
+					"link": "https://kah3vich.github.io/Islamic/dist/pay.html"
+				},
+				{
+					"id": 6,
+					"title": "404",
+					"link": "https://kah3vich.github.io/Islamic/dist/404.html"
+				},
+				{
+					"id": 7,
+					"title": "Search",
+					"link": "https://kah3vich.github.io/Islamic/dist/search.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/logo.svg",
+			"title": "BLANC-DE-BLANCS",
+			"subtitle": "Italian restaurant.",
+			"description": "An Italian restaurant with a wide range of dishes and drinks, with a precarious design of the restaurant itself and service, both inside the restaurant and outside, namely delivery, which delivers the dish quickly and warmly.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/index.html"
+				},
+				{
+					"id": 2,
+					"title": "Menu",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/menu.html"
+				},
+				{
+					"id": 3,
+					"title": "Bar",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/bar.html"
+				},
+				{
+					"id": 4,
+					"title": "Wine",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/wine.html"
+				},
+				{
+					"id": 5,
+					"title": "Gallery",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/gallery.html"
+				},
+				{
+					"id": 6,
+					"title": "About",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/about.html"
+				},
+				{
+					"id": 7,
+					"title": "Promotions",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/promotions.html"
+				},
+				{
+					"id": 8,
+					"title": "Wines",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/wines.html"
+				},
+				{
+					"id": 9,
+					"title": "Booking",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/booking.html"
+				},
+				{
+					"id": 10,
+					"title": "Promotion",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/promotion.html"
+				},
+				{
+					"id": 11,
+					"title": "Dish",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/dish.html"
+				},
+				{
+					"id": 12,
+					"title": "Business",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/business.html"
+				},
+				{
+					"id": 13,
+					"title": "Delivery",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/delivery.html"
+				},
+				{
+					"id": 14,
+					"title": "Basket",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/basket.html"
+				},
+				{
+					"id": 15,
+					"title": "Catering",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/catering.html"
+				},
+				{
+					"id": 16,
+					"title": "Event",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/event.html"
+				},
+				{
+					"id": 17,
+					"title": "404",
+					"link": "https://kah3vich.github.io/BLANC-DE-BLANCS/public/404.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/logo.svg",
+			"title": "TOGO__Brands",
+			"subtitle": "Project for a company.",
+			"description": "A project for a company engaged in trending, selling and analytics of goods for active sale on trading floors, for animals, both at home and in the garden.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/TOGO__Brands/public/index.html"
+				},
+				{
+					"id": 2,
+					"title": "About",
+					"link": "https://kah3vich.github.io/TOGO__Brands/public/about.html"
+				},
+				{
+					"id": 3,
+					"title": "Portfolio",
+					"link": "https://kah3vich.github.io/TOGO__Brands/public/portfolio.html"
+				},
+				{
+					"id": 4,
+					"title": "Investor",
+					"link": "https://kah3vich.github.io/TOGO__Brands/public/investor.html"
+				},
+				{
+					"id": 5,
+					"title": "Portfolios",
+					"link": "https://kah3vich.github.io/TOGO__Brands/public/portfolios.html"
+				},
+				{
+					"id": 6,
+					"title": "News",
+					"link": "https://kah3vich.github.io/TOGO__Brands/public/news.html"
+				},
+				{
+					"id": 7,
+					"title": "Contact",
+					"link": "https://kah3vich.github.io/TOGO__Brands/public/contact.html"
+				},
+				{
+					"id": 8,
+					"title": "Partner",
+					"link": "https://kah3vich.github.io/TOGO__Brands/public/partner.html"
+				},
+				{
+					"id": 9,
+					"title": "Team",
+					"link": "https://kah3vich.github.io/TOGO__Brands/public/team.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/logo.svg",
+			"title": "Ferrocarril",
+			"subtitle": "Transportation service admin.",
+			"description": "A long-distance transportation service that can deliver large quantities of goods to various companies and factories.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Ferrocarril/public/index.html"
+				},
+				{
+					"id": 2,
+					"title": "Sign In",
+					"link": "https://kah3vich.github.io/Ferrocarril/public/sign-in.html"
+				},
+				{
+					"id": 3,
+					"title": "Account",
+					"link": "https://kah3vich.github.io/Ferrocarril/public/account.html"
+				},
+				{
+					"id": 4,
+					"title": "Report List",
+					"link": "https://kah3vich.github.io/Ferrocarril/public/report-list.html"
+				},
+				{
+					"id": 5,
+					"title": "Report History",
+					"link": "https://kah3vich.github.io/Ferrocarril/public/report-history.html"
+				},
+				{
+					"id": 6,
+					"title": "Report Detail",
+					"link": "https://kah3vich.github.io/Ferrocarril/public/report-detail.html"
+				},
+				{
+					"id": 7,
+					"title": "Appli List",
+					"link": "https://kah3vich.github.io/Ferrocarril/public/report-list.html"
+				},
+				{
+					"id": 8,
+					"title": "Appli History",
+					"link": "https://kah3vich.github.io/Ferrocarril/public/report-history.html"
+				},
+				{
+					"id": 9,
+					"title": "Appli Detail",
+					"link": "https://kah3vich.github.io/Ferrocarril/public/report-detail.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/logo.svg",
+			"title": "Era_Of__Logistics",
+			"subtitle": "Transportation service admin.",
+			"description": "A long-distance transportation service that can deliver large quantities of goods to various companies and factories.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Reg",
+					"link": "https://kah3vich.github.io/Era_Of__Logistics/public/reg.html"
+				},
+				{
+					"id": 2,
+					"title": "Index 1",
+					"link": "https://kah3vich.github.io/Era_Of__Logistics/public/index_one.html"
+				},
+				{
+					"id": 3,
+					"title": "Index 2",
+					"link": "https://kah3vich.github.io/Era_Of__Logistics/public/index_two.html"
+				},
+				{
+					"id": 4,
+					"title": "Admin Carrier 1",
+					"link": "https://kah3vich.github.io/Era_Of__Logistics/public/carrier__one.html"
+				},
+				{
+					"id": 5,
+					"title": "Admin Carrier 2",
+					"link": "https://kah3vich.github.io/Era_Of__Logistics/public/carrier__two.html"
+				},
+				{
+					"id": 6,
+					"title": "Admin Carrier 3",
+					"link": "https://kah3vich.github.io/Era_Of__Logistics/public/carrier__three.html"
+				},
+				{
+					"id": 7,
+					"title": "Admin Company 1",
+					"link": "https://kah3vich.github.io/Era_Of__Logistics/public/company__one.html"
+				},
+				{
+					"id": 8,
+					"title": "Admin Company 2",
+					"link": "https://kah3vich.github.io/Era_Of__Logistics/public/company__two.html"
+				},
+				{
+					"id": 9,
+					"title": "Admin Service 1",
+					"link": "https://kah3vich.github.io/Era_Of__Logistics/public/service__one.html"
+				},
+				{
+					"id": 10,
+					"title": "Admin Service 2",
+					"link": "https://kah3vich.github.io/Era_Of__Logistics/public/service__two.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://raw.githubusercontent.com/kah3vich/readme-project-base/main/assets/svg/logo.svg",
+			"title": "Islam",
+			"subtitle": "Bookstore for islam.",
+			"description": "Bookstore for islam, which has a large range of books with a blog of current news.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Eco_Cleaner/public/index.html"
+				},
+				{
+					"id": 2,
+					"title": "Volunteers",
+					"link": "https://kah3vich.github.io/Islam/public/volunteers.html"
+				},
+				{
+					"id": 3,
+					"title": "Contributors",
+					"link": "https://kah3vich.github.io/Islam/public/contributors.html"
+				},
+				{
+					"id": 4,
+					"title": "Donate",
+					"link": "https://kah3vich.github.io/Islam/public/donate.html"
+				},
+				{
+					"id": 5,
+					"title": "For Volunteers",
+					"link": "https://kah3vich.github.io/Islam/public/for_volunteers.html"
+				},
+				{
+					"id": 6,
+					"title": "Verification",
+					"link": "https://kah3vich.github.io/Islam/public/verification.html"
+				},
+				{
+					"id": 7,
+					"title": "Сertificate",
+					"link": "https://kah3vich.github.io/Islam/public/certificate.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://github.com/kah3vich/Diada/blob/master/%23src/iconsprite/logo.svg",
+			"title": "Diada",
+			"subtitle": ".",
+			"description": ".",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Diada/dist/index.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://github.com/kah3vich/Diada/blob/master/%23src/iconsprite/logo.svg",
+			"title": "Armor",
+			"subtitle": "Project for selling accessories.",
+			"description": "A project for selling accessories for various devices, such as: phones, tablets and laptops. All accessories are replicas.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Armor/projects/armor/public/index.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://github.com/kah3vich/Diada/blob/master/%23src/iconsprite/logo.svg",
+			"title": "Tracklove",
+			"subtitle": "Social media analytics project.",
+			"description": "A social media analytics project that collects user data and is analyzed in the Python programming language, and provides up-to-date information about the user's recent actions on the social network.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Tracklove/dist/index.html"
+				},
+				{
+					"id": 2,
+					"title": "Profile",
+					"link": "https://kah3vich.github.io/Tracklove/dist/profile.html"
+				},
+				{
+					"id": 3,
+					"title": "Advice",
+					"link": "https://kah3vich.github.io/Tracklove/dist/advice.html"
+				},
+				{
+					"id": 4,
+					"title": "Entrance",
+					"link": "https://kah3vich.github.io/Tracklove/dist/entrance.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://github.com/kah3vich/Diada/blob/master/%23src/iconsprite/logo.svg",
+			"title": "sfera",
+			"subtitle": "Internet school project.",
+			"description": "The project of the Internet school in English, which presents various methods and courses for teaching children and adults.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/sfera/dist/index.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://github.com/kah3vich/Behappy/blob/master/%23src/iconsprite/logo.svg",
+			"title": "Behappy",
+			"subtitle": "Florists, selling flowers.",
+			"description": "One of the rather voluminous projects for a flower company with a large and beautiful selection of different colors, from small bouquets to very huge ones.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Behappy/distindex.html"
+				},
+				{
+					"id": 2,
+					"title": "Catalog",
+					"link": "https://kah3vich.github.io/Behappy/dist/catalog.html"
+				},
+				{
+					"id": 3,
+					"title": "Order",
+					"link": "https://kah3vich.github.io/Behappy/dist/order.html"
+				},
+				{
+					"id": 4,
+					"title": "New",
+					"link": "https://kah3vich.github.io/sfera/dist/index.html"
+				},
+				{
+					"id": 5,
+					"title": "New Detail",
+					"link": "https://kah3vich.github.io/Behappy/dist/dnew.html"
+				},
+				{
+					"id": 6,
+					"title": "Search",
+					"link": "https://kah3vich.github.io/Behappy/dist/search.html"
+				},
+				{
+					"id": 7,
+					"title": "8 March",
+					"link": "https://kah3vich.github.io/Behappy/dist/march.html"
+				},
+				{
+					"id": 8,
+					"title": "Quiz",
+					"link": "https://kah3vich.github.io/Behappy/dist/quiz.html"
+				},
+				{
+					"id": 9,
+					"title": "404",
+					"link": "https://kah3vich.github.io/Behappy/dist/404.html"
+				},
+				{
+					"id": 10,
+					"title": "Subscription",
+					"link": "https://kah3vich.github.io/Behappy/dist/subscription.html"
+				},
+				{
+					"id": 11,
+					"title": "About",
+					"link": "https://kah3vich.github.io/Behappy/dist/about.html"
+				},
+				{
+					"id": 12,
+					"title": "Contact",
+					"link": "https://kah3vich.github.io/Behappy/dist/contact.html"
+				},
+				{
+					"id": 13,
+					"title": "Description",
+					"link": "https://kah3vich.github.io/Behappy/dist/description.html"
+				},
+				{
+					"id": 14,
+					"title": "Toy",
+					"link": "https://kah3vich.github.io/Behappy/dist/subscription.html"
+				},
+				{
+					"id": 15,
+					"title": "Urgently",
+					"link": "https://kah3vich.github.io/Behappy/dist/urgently.html"
+				},
+				{
+					"id": 16,
+					"title": "Constructor",
+					"link": "https://kah3vich.github.io/Behappy/dist/constructor.html"
+				},
+				{
+					"id": 17,
+					"title": "Editor Profile",
+					"link": "https://kah3vich.github.io/Behappy/dist/editor.html"
+				},
+				{
+					"id": 18,
+					"title": "Event Calendar Profile",
+					"link": "https://kah3vich.github.io/Behappy/dist/event.html"
+				},
+				{
+					"id": 19,
+					"title": "Stock",
+					"link": "https://kah3vich.github.io/Behappy/dist/stock.html"
+				},
+				{
+					"id": 20,
+					"title": "Status",
+					"link": "https://kah3vich.github.io/Behappy/dist/status.html"
+				},
+				{
+					"id": 21,
+					"title": "Recommendations",
+					"link": "https://kah3vich.github.io/Behappy/dist/recommendations.html"
+				},
+				{
+					"id": 22,
+					"title": "Policy",
+					"link": "https://kah3vich.github.io/Behappy/dist/policy.html"
+				},
+				{
+					"id": 23,
+					"title": "Offers",
+					"link": "https://kah3vich.github.io/Behappy/dist/offers.html"
+				},
+				{
+					"id": 24,
+					"title": "History",
+					"link": "https://kah3vich.github.io/Behappy/dist/history.html"
+				},
+				{
+					"id": 25,
+					"title": "Donat",
+					"link": "https://kah3vich.github.io/Behappy/dist/donat.html"
+				},
+				{
+					"id": 26,
+					"title": "Chosen",
+					"link": "https://kah3vich.github.io/Behappy/dist/chosen.html"
+				},
+				{
+					"id": 27,
+					"title": "Balls",
+					"link": "https://kah3vich.github.io/Behappy/dist/balls.html"
+				},
+				{
+					"id": 28,
+					"title": "Notification",
+					"link": "https://kah3vich.github.io/Behappy/dist/notification.html"
+				},
+				{
+					"id": 29,
+					"title": "Orders",
+					"link": "https://kah3vich.github.io/Behappy/dist/orders.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
+				}
+			]
+		},
+		{
+			"url": "https://github.com/kah3vich/Behappy/blob/master/%23src/iconsprite/logo.svg",
+			"title": "Project-BP",
+			"subtitle": "Website portfolio company BP.",
+			"description": "A site that is a portfolio for BP, which presents various keys for the implementation of business cases. Team and work that turned out best and glass technology.",
+			"links": [
+				{
+					"id": 1,
+					"title": "Index",
+					"link": "https://kah3vich.github.io/Project-BP/dist/index.html"
+				},
+				{
+					"id": 2,
+					"title": "Seo traff",
+					"link": "https://kah3vich.github.io/Project-BP/dist/seotraff.html"
+				},
+				{
+					"id": 3,
+					"title": "Ceo",
+					"link": "https://kah3vich.github.io/Project-BP/dist/ceo.html"
+				},
+				{
+					"id": 4,
+					"title": "Smm",
+					"link": "https://kah3vich.github.io/Project-BP/dist/smm.html"
+				},
+				{
+					"id": 5,
+					"title": "Optimization",
+					"link": "https://kah3vich.github.io/Project-BP/dist/optimization.html"
+				},
+				{
+					"id": 6,
+					"title": "Advertising",
+					"link": "https://kah3vich.github.io/Project-BP/dist/rec.html"
+				},
+				{
+					"id": 7,
+					"title": "Mailing",
+					"link": "https://kah3vich.github.io/Project-BP/dist/mailing.html"
+				},
+				{
+					"id": 8,
+					"title": "Business",
+					"link": "https://kah3vich.github.io/Project-BP/dist/hello.html"
+				},
+				{
+					"id": 9,
+					"title": "Bitrix",
+					"link": "https://kah3vich.github.io/Project-BP/dist/bitrix.html"
+				},
+				{
+					"id": 10,
+					"title": "Case",
+					"link": "https://kah3vich.github.io/Project-BP/dist/case.html"
+				},
+				{
+					"id": 11,
+					"title": "Detail 1",
+					"link": "https://kah3vich.github.io/Project-BP/dist/detail-1.html"
+				},
+				{
+					"id": 12,
+					"title": "Detail 2",
+					"link": "https://kah3vich.github.io/Project-BP/dist/detail-2.html"
+				},
+				{
+					"id": 13,
+					"title": "Detail 3",
+					"link": "https://kah3vich.github.io/Project-BP/dist/detail-3.html"
+				},
+				{
+					"id": 14,
+					"title": "Detail 4",
+					"link": "https://kah3vich.github.io/Project-BP/dist/detail-4.html"
+				},
+				{
+					"id": 15,
+					"title": "Detail 5",
+					"link": "https://kah3vich.github.io/Project-BP/dist/detail-5.html"
+				},
+				{
+					"id": 16,
+					"title": "Create",
+					"link": "https://kah3vich.github.io/Project-BP/dist/ready.html"
+				},
+				{
+					"id": 17,
+					"title": "Contact",
+					"link": "https://kah3vich.github.io/Project-BP/dist/contact.html"
+				},
+				{
+					"id": 18,
+					"title": "News",
+					"link": "https://kah3vich.github.io/Project-BP/dist/new.html"
+				},
+				{
+					"id": 19,
+					"title": "Add news",
+					"link": "https://kah3vich.github.io/Project-BP/dist/design.html"
+				}
+			],
+			"stacks": [
+				{
+					"title": "JavaScript",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/javascript.svg"
+				},
+				{
+					"title": "HTML",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/html5.svg"
+				},
+				{
+					"title": "SCSS",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/scss.svg"
+				},
+				{
+					"title": "Gulp",
+					"url": "https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/icon/gulp.svg"
+				}
+			],
+			"developers": [
+				{
+					"name": "Kah3vich",
+					"link": "https://github.com/kah3vich",
+					"url": "https://github.com/kah3vich.png?s=96",
+					"status": "Core Developer"
+				},
+				{
+					"name": "Bpump",
+					"link": "https://github.com/pbump",
+					"url": "https://github.com/bpump.png?s=96",
+					"status": "Support"
 				}
 			]
 		}

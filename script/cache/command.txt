@@ -1,5 +1,5 @@
 cd ./cache/reps/; rm -rf ./* 
 
-git clone git@github.com:kah3vich/Autopodbor.git; cd Autopodbor; mv ../../readme/Autopodbor.md .; mv Autopodbor.md readme.md; git add .; git commit -m "feat: readme update"; git push; cd ../; 
+git clone git@github.com:kah3vich/Islam.git; cd Islam; mv ../../readme/Islam.md .; mv Islam.md readme.md; git add .; git commit -m "feat: readme update"; git push; cd ../; 
 
 cd ../..;
